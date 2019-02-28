@@ -4,7 +4,7 @@ stevedille@me.com
 
 Degrees:  
 - Masters in Data Science (in progress - expected 2020), UC Berkeley  
-- MBA, Finance and Marketing, Universiy of Chicago (completed)  
+- MBA, Finance and Marketing, University of Chicago (completed)  
 - BS, Computer Science/Math with Honors, University of Pittsburgh (completed)  
 
 Data Science Coursework Completed by 2019:
