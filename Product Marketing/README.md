@@ -16,6 +16,10 @@ Here is an ROI analysis I created about the impact of their workload aware autos
 
 https://github.com/steviebyte/Portfolio/blob/master/Product%20Marketing/Workload_Aware_Auto-Scaling-Qubole%20-%20i%20wrote%20the%20roi%20ending.pdf
 
+Here is a Qubole landing page I wrote that we called the brag page for lead capture:
+
+https://www.dropbox.com/s/ugmad3iyw0dvxke/Qubole%20Brag%20Page%20Complete.htm?dl=0
+
 
 
 * Some of the files are in dropbox as the graphics exceed the limits of Github.  
