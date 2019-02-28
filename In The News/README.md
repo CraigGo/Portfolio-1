@@ -1,8 +1,8 @@
 
 I wrote a regular column on data-driven email for MarketingLand while I was CMO of SparkPost.  My column was selected as one of the most popular columns of the year:
 
-Email Marketing In 2015: The Most Popular Columns Of The Year
-Pamela Parker on December 29, 2015 at 10:30 am
+Email Marketing In 2015: The Most Popular Columns Of The Year  
+Pamela Parker on December 29, 2015 at 10:30 am  
 
 https://www.dropbox.com/s/fg8j96eoqlo1bjh/Email%20Marketing%20In%202015_%20The%20Most%20Popular%20Columns%20Of%20The%20Year%20-%20Marketing%20Land.htm?dl=0
   
