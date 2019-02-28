@@ -10,3 +10,5 @@ https://www.dropbox.com/s/x15729rdacehid5/AWS_Booth%20Preso%20-%20Booth%20PPT%20
 
 
 https://github.com/steviebyte/Portfolio/blob/master/Product%20Marketing/Big%20Data%20Buyers%20Guide%2010-31-2017.pdf
+
+https://github.com/steviebyte/Portfolio/blob/master/Product%20Marketing/Workload_Aware_Auto-Scaling-Qubole%20-%20i%20wrote%20the%20roi%20ending.pdf
