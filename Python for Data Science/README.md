@@ -13,8 +13,8 @@ In the class we also covered:
 - Python syntax and data structures (lists, dictionaries, tuples..)
 - Libraries, modules
 - Command line  
-- Jupyter notebooks 
+- Jupyter notebooks  
 - Pandas  
-- Numpy 
-- Object-Oriented programming vs. functional programming
-- Lamda functions, Regex
+- Numpy  
+- Object-Oriented programming vs. functional programming  
+- Lamda functions, Regex  
