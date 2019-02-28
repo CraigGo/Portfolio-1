@@ -5,3 +5,13 @@ My project 1 implementation of Battleship was selected to be in the MIDS Python 
 
 For direct access to the code repository and .py file:  
 (https://github.com/UCB-INFO-PYTHON/BattleshipGame)
+
+
+In the class we also covered:
+
+Python syntax and data structures
+Command line
+Jupyter Notebook
+Pandas
+Numpy
+Object-Oriented programming
