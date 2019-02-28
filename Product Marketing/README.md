@@ -1,4 +1,6 @@
-Qubole Coprorate Video used in emailings and lunch rountable presentations
+Here are a few examples of recent projects in the product marketing area
+
+Qubole Corporate video used in emailings, self-running trade show booth presentations (that is why there are sub-titles in this version) and lunch rountable presentations as a kickoff.  
 
 https://www.dropbox.com/s/e2wcj4asbsja4a8/Qubole-subtitles.mp4?dl=0
 
