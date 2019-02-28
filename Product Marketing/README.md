@@ -15,3 +15,7 @@ https://github.com/steviebyte/Portfolio/blob/master/Product%20Marketing/Big%20Da
 Here is an ROI analysis I created about the impact of their workload aware autoscaling.  This was done by comparing the costs of Qubole vs. the plain costs of AWS without using Qubole as we had the amount of resources consumed to compare.
 
 https://github.com/steviebyte/Portfolio/blob/master/Product%20Marketing/Workload_Aware_Auto-Scaling-Qubole%20-%20i%20wrote%20the%20roi%20ending.pdf
+
+
+
+* Some of the files are in dropbox as the graphics exceed the limits of Github.  
