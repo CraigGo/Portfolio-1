@@ -24,6 +24,6 @@ Relevant Experience Recap:
 - 3 years UNIX product manager at HP
 - 5 years at Sybase/SAP as director of data warehousing/analytics where I owned the product roadmap & launched the 1st columnar database
 - 4 years as SVP, Marketing at Viador, a Java business intelligence tool company we grew from $1M to IPO
-- 5 years as CMO at Barra (now MSCI), the leading data science built risk model provider to 90% of the world's largest asset managers
+- 5 years as CMO at Barra (now MSCI), the leading data science built risk model provider to 90% of the world's largest asset managers. If you know the CAPM, Barra breaks out Beta into roughly 64 different factors that drive risk.  
 - 4 years as CMO at SparkPost, a cloud big-data driven email API company sending 30% of the world's personalized email
 - 2 years consulting and advising Qubole (big data platform similar to Cloudera) and Domino (data science model management platform)
