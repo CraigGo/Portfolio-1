@@ -22,7 +22,11 @@ https://www.dropbox.com/s/ugmad3iyw0dvxke/Qubole%20Brag%20Page%20Complete.htm?dl
 
 Qubole - Here is another landing page we used to captur leads at their workload aware autoscaling launch that I wrote:
 
-https://www.dropbox.com/s/ulbhtmask137dt1/Qubole%20Autoscaling%20Complete.htm?dl=0
+https://www.dropbox.com/s/ulbhtmask137dt1/Qubole%20Autoscaling%20Complete.htm?dl=0  
+
+Qubole - Here is a white paper I authored for them for the Snowflake/Qubole partnership launch.  It discusses big data object store platforms like Qubole and S3 and how they are different than RDBMS data warehouses (like Snowflake) and offers models for how to itegrate the two into a modern data architecture for structured and unstructured data.  
+
+https://github.com/steviebyte/Portfolio/blob/master/Product%20Marketing/Qubole-Modern-Unified-Data-Lake-White-Paper-v5.pdf  
 
 
 
