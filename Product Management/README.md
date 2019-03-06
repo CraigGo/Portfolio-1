@@ -10,3 +10,5 @@ Availability Forecast Requirements- https://docs.google.com/document/d/1PuE3CbeW
 Credit fraud detection and resolution (Sportgenic site) - https://docs.google.com/document/d/1IRqwhFo94gY-MIffQPucuoa871pKTTzWZazrhsZ7SVE/edit?usp=sharing
 
 Geo-Targeting  - https://docs.google.com/document/d/1ao95A_8WtdiBh1PLgZpWcVK01w8Irtl430gXUN_UFVc/edit?usp=sharing
+
+Inventory Buffering - https://docs.google.com/document/d/1SHeF5g0xw9UqdKs6VsVVfDFUIDVnyu17UcyISlRsqDE/edit?usp=sharing
