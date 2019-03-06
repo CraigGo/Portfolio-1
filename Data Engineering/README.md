@@ -7,7 +7,7 @@ Apache Spark is an open-source distributed general-purpose cluster-computing fra
 
 HDFS is the Hadoop Distributed File System (HDFS). It is the primary data storage system used by Hadoop applications. HDFS is a key part of the many Hadoop ecosystem technologies, as it provides a reliable means for managing pools of big data and supporting related big data analytics applications. Once data is stored in HDFS, it may be queried in SQL for analytics via Spark SQL, Presto etc.. or moved into other data analytics repositories as needed. I store the data in parquet files for high performance columnar access in analytics.
 
-Docker is also used to spin up the containers needed in the cloud for this infrastructure.  Here is the .yml file 
+Docker is also used to spin up the containers needed in the cloud for this infrastructure.  Here is the docker .yml file for the containers:  Portfolio/Data Engineering/docker-compose.yml 
 
 The example below will demonstrate the commands needed to build a data pipleine: 
       
