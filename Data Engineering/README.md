@@ -9,6 +9,7 @@ HDFS is the Hadoop Distributed File System (HDFS). It is the primary data storag
 
 Docker is also used to spin up the containers needed in the cloud for this infrastructure.  Here is the docker .yml file for the containers:  
 
+https://github.com/steviebyte/Portfolio/blob/master/Data%20Engineering/docker-compose.yml
 
 The example below will demonstrate the commands needed to build a data pipleine:   
 https://github.com/steviebyte/Portfolio/blob/master/Data%20Engineering/Spark%20Kafka%20HDFS.md
