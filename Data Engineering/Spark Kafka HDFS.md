@@ -1,4 +1,4 @@
-# Building a data pipeline.  
+# Building a data pipeline by Steve Dille  
 
 How to use Kafka and Spark continers to write messages to HDFS files for subsequent processing in analytics.    
 
