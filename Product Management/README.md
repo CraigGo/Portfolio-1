@@ -34,5 +34,22 @@ https://www.dropbox.com/s/u1d4bkwgs10uxei/Client%20Consultation%20Process.doc?dl
 BarraOne Asset Management Questionaire
 https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1%20_AM%20Questionnaire-%20Final.doc
 
+https://www.dropbox.com/s/zashhfolvwltpy1/B1%20_AM%20Questionnaire-%20Final.doc?dl=0
+
 Asset Owner Consultation - Goals of Project and Then Interview Questions
 https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1_AOC%20Consultation%20-%20Goals%20and%20Questions.doc
+
+https://www.dropbox.com/s/5l51zhk5v8gqpee/B1_AOC%20Consultation%20-%20Goals%20and%20Questions.doc?dl=0
+
+Aegis Questionaire
+
+https://www.dropbox.com/s/xbrkth1mob30mop/Interview%20Questions%20-%20Aegis%20user.doc?dl=0
+Factset Presentation to Operating Committee
+https://www.dropbox.com/s/s8ltiuqx8f7mga5/Factset%20consultations%20OC%20summary_June%206_05%5B1%5D.ppt?dl=0
+
+Factset Questionaire
+https://www.dropbox.com/s/kc2lylttvap7wnz/Factset%20Interview%20Questions%20-%20Aegis%20user.doc?dl=0
+
+Hedge Fund Questionaire
+https://www.dropbox.com/s/lu5038jhfsdj246/HFRM%20-%20FoHF%20and%20AOC%20Questionnaire.doc?dl=0
+
