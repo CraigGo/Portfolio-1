@@ -26,9 +26,9 @@ This is the simple presentation I used with the board and founder to explain why
 
 https://www.dropbox.com/s/8xm6kp3jugq7ibq/strategy.pptx?dl=0
 
-He is a more detailed market sizing I did that we used with investors to raise more money.  One of the investor's described it as hte best market sizing he had ever seen :)
+He is a more detailed market sizing I did (tied to trends and markets) that we used with investors to SUCCESSFULLY raise money.  One of the investor's described it as the best market sizing he had ever seen :)
 
-xxxx
+https://www.dropbox.com/s/9kr0qkr0kwxp2y3/message%20systems%20investordeck-final.pptx?dl=0
 
 Before we became a cloud API, we tried a pivot to add new message channels and become cross channel.  In product management, you need to be able to envision how something could work better but also understand the value of that reengineering or no one will adopt if it is not a sufficiently high ROI.  Here is a presentation I did on new useage scenarios and the value of cross-channel.  Remember, this was 2013 and some of the scenarios in here will look familiar.  They didnt exist at the time.  What I am proud of in here is the original thinking on how to reengineer cusomer engagement processes to make them less expensive and also better for the customer.  In particular, I had come up with what is now commonplace in fraud detection processes - using sms or push to notify the customer and allow them to respond with a Y or N from anywhere as to whether a transaction is fraud or not.  At the time, the banks called you when they suspected fraud.  That process was disruptive to the customer and expensive as each call center call was $12 instead of free.   There were millions to be saved for banks.  
 
