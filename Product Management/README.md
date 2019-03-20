@@ -30,9 +30,9 @@ He is a more detailed market sizing I did that we used with investors to raise m
 
 xxxx
 
-Before we went cloud we tried a pivot to add new message channels and become cross channel.  In product, you need to be able to envision how something could work better but also understand the value of it.  I think this was an internal presentation I did for the president/Founder (George).  This was 2013.  What I am proud of in here is the original thinking on how to reengineer cusomer engagement processes to make them less expensive and also better for the customer.  In particular, I had come up with what is now commonplace in fraud detection processes - using sms or push to notify the customer and allow them to respond with a Y or N from anywhere as to whether a transaction is frud or not.  At the time, the banks called you, the process was disruptive to the customer and expensive as each call center call was $12 instead of free.   There were millions ot be saved for banks.  
+Before we became a cloud API, we tried a pivot to add new message channels and become cross channel.  In product management, you need to be able to envision how something could work better but also understand the value of that reengineering or no one will adopt if it is not a sufficiently high ROI.  Here is a presentation I did on new useage scenarios and the value of cross-channel.  Remember, this was 2013 and some of the scenarios in here will look familiar.  They didnt exist at the time.  What I am proud of in here is the original thinking on how to reengineer cusomer engagement processes to make them less expensive and also better for the customer.  In particular, I had come up with what is now commonplace in fraud detection processes - using sms or push to notify the customer and allow them to respond with a Y or N from anywhere as to whether a transaction is fraud or not.  At the time, the banks called you when they suspected fraud.  That process was disruptive to the customer and expensive as each call center call was $12 instead of free.   There were millions to be saved for banks.  
 
-xxxx
+https://www.dropbox.com/s/ambuje611hybl77/cross%20channel%20Value%20deck%20.pptx?dl=0
 
 
 
