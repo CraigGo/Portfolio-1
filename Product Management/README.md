@@ -36,42 +36,37 @@ xxxx
 
 
 
-## MSCI/Barra - Customer Research Examples
-Barra is a data science company who used regression to build multi-factor risk models for asset managers. The company was sold to Morgan Stanley a year after I started.  My job as head of marketing became product, startegy and market segment oriented to sort out the investment decisons for the CEO and product roadmap/partnerships. The first step here was to build and run a client consultation process for the company to collect market input from prospects and customers.  I was appointed to the operating committee of the company as a result of this work.  Here are some examples: 
+## MSCI/Barra - Customer and Product Research Examples
+Barra is a data science company who used regression to build multi-factor risk models for asset managers. The company was sold to Morgan Stanley (MSCI) a year+ after I started.  My job as head of marketing became product, strategy and market segment oriented to sort out the investment decisons for the CEO and product roadmap/partnerships. The first step here was to build and run a client consultation process for the company to collect market input from prospects and customers.  I was appointed to the operating committee of the company as a result of this work.  Here are some examples: 
 
-Client Consultation Process (lots of people wanted to know how it would work and how long it would take)
+Client Consultation Process (lots of people wanted to know how it would work and how long it would take - here is what I created)
 https://www.dropbox.com/s/u1d4bkwgs10uxei/Client%20Consultation%20Process.doc?dl=0
 
-The first question I was asked to answer was a question that went unanswered for years - Should we integrate Barra with the Factset Data Platform and if so what should the integration be?  There were multiple hypothesis and opinions on what we should do.  But we were losing customers and revenue every year by not fulfilling this requirement.  Im pleased to say I ran a data-driven approach over a 3 month period and answered the question definitively with our first client consultation:
+The first question I was asked to answer was a question that went unanswered for years - Should we integrate Barra with the Factset Data Platform? and if so what should the integration be?  There were multiple hypotheses and opinions on what we should do (some related to personal product biases and job security).  But we were losing customers and revenue every year by not fulfilling this requirement.  I'm pleased to say I ran a data-driven approach over a 3 month period and answered the question definitively with our first client consultation project.  We did the integration, stopped the customer cancellations and didn't commoditize our data which was the fear:
 
-Factset Questionaire
+Factset Questionaire:
 https://www.dropbox.com/s/kc2lylttvap7wnz/Factset%20Interview%20Questions%20-%20Aegis%20user.doc?dl=0
 
-Here is the final Factset Presentation to the MSCI Operating Committee
+Here is the final Factset Presentation to the MSCI Operating Committee:
 https://www.dropbox.com/s/s8ltiuqx8f7mga5/Factset%20consultations%20OC%20summary_June%206_05%5B1%5D.ppt?dl=0
 
+This set off a lot of demand for more customer knowledge as it's addicting once you get it.  I pretty much worked the next few years determining market requirements from adjacent segments we were not strong in (Hedge Funds, Asset Owners (pensions...)), understanding the requirements of customers for our existing products and what should be turned into a SaaS model vs. left as desktop, what overlaps we had etc..
 
-Here is a presentation on how customers used our different risk analytics products for the purposes of setting our produt strategy.  I was given this assignment by the CEO and reported this data to the operating committee.  This was important so we knew which products to invest in, which needed to move to the cloud vs. stay as desktop products, which products to target at which segments (pension plans, hedge funds, quant portfolio managers), and which products had overlap that we might discontinue (which we did to save $10M a year).
+Here are the questionaires to a number of the studies I developed with the business units and personally conducted the research for:
 
-
-
-
-
-BarraOne Asset Management Questionaire
-https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1%20_AM%20Questionnaire-%20Final.doc
-
+BarraOne (our failing SaaS product which we turned around once we understood the market) Asset Management Questionaire:
 https://www.dropbox.com/s/zashhfolvwltpy1/B1%20_AM%20Questionnaire-%20Final.doc?dl=0
 
-Asset Owner Consultation - Goals of Project and Then Interview Questions
-https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1_AOC%20Consultation%20-%20Goals%20and%20Questions.doc
-
+Asset Owner Consultation - This one includes the goals of project and then interview questions:
 https://www.dropbox.com/s/5l51zhk5v8gqpee/B1_AOC%20Consultation%20-%20Goals%20and%20Questions.doc?dl=0
 
-Aegis Questionaire
-
+Aegis desktop equity risk product - feature priority customer research questionaire:
 https://www.dropbox.com/s/xbrkth1mob30mop/Interview%20Questions%20-%20Aegis%20user.doc?dl=0
 
-
-Hedge Fund Questionaire
+Hedge Fund market questionaire:
+The hedge fund market was growing rapidly and we were being left out.  Once we understood what they wanted and why they weren't buying us (from this research), we were able to repurpose BarraOne and add features to satisfy the multi-asset class needs of hedge funds.  
 https://www.dropbox.com/s/lu5038jhfsdj246/HFRM%20-%20FoHF%20and%20AOC%20Questionnaire.doc?dl=0
+
+MSCI Conclusion:
+After conducting all of this research, we understood the business well and answered the many product investment questions we had.  We did not have to invest in Aegis to become SaaS as desktop worked better for quant portfolio managers, we positioned BarraOne to be our solution for asset owners and hedge funds who needed internet and muti-asset class coverage and reporting.  And we killed a second very expensive on-premises product called TotalRisk that was similar to BarraOne, moved all of the customers to BarraOne and retained them and saved $10M a year in cost.  It was a complete product roadmap based on data, facts and customer requirements.
 
