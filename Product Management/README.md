@@ -18,7 +18,11 @@ Geo-Targeting  - https://docs.google.com/document/d/1ao95A_8WtdiBh1PLgZpWcVK01w8
 Inventory Buffering - https://docs.google.com/document/d/1SHeF5g0xw9UqdKs6VsVVfDFUIDVnyu17UcyISlRsqDE/edit?usp=sharing
 
 ## SparkPost
-This is the simple presentation I used with the board and founder to explain why we needed to transition our product and company the cloud.  The company was called Message Systems before we became a cloud company (SparkPost).
+This is the simple presentation I used with the board and founder to explain why we needed to transition our product and company strategy to the cloud.  The company was called Message Systems before we became a cloud company (SparkPost).  This shows market sizing, competitive analysis, positioning, analysis of company strengths and weaknesses and a roadmap of incremental market sizes we can capitalize on as we add capabilities.  It definitely was the right decision as we increased company value by several hundred million and we even reached the $50M in 2 years I projected.
+
+https://www.dropbox.com/s/8xm6kp3jugq7ibq/strategy.pptx?dl=0
+
+
 
 ## MSCI/Barra
 Here is a presentation on how customers used our different risk analytics products for the purposes of setting our produt strategy.  I was given this assignment by the CEO and reported this data to the operating committee.  This was important so we knew which products to invest in, which needed to move to the cloud vs. stay as desktop products, which products to target at which segments (pension plans, hedge funds, quant portfolio managers), and which products had overlap that we might discontinue (which we did to save $10M a year).
