@@ -27,3 +27,5 @@ Relevant Experience Recap:
 - 5 years as CMO at Barra (now MSCI), the leading data science built risk model provider to 90% of the world's largest asset managers. If you know the CAPM, Barra breaks out Beta into roughly 64 different factors that drive risk 
 - 4 years as CMO at SparkPost, a cloud big-data driven email API company sending 30% of the world's email (mostly behaviorally driven)
 - 2 years consulting and advising Qubole (big data platform similar to Cloudera) and Domino (data science model management platform)
+- 1 year as SVP Products at AdPortal where I ran engineering and product 
+- 2 years as VP of Product Management at Kickfire, a MySQL Data Warehouse appliance sold to Teradata.
