@@ -29,4 +29,5 @@ Here is a presentation on how customers used our different risk analytics produc
 
 Client Consultation Process - https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/Client%20Consultation%20Process.doc
 
-
+BarraOne Asset Management Questionaire
+https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1%20_AM%20Questionnaire-%20Final.doc
