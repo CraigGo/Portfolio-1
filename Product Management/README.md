@@ -31,3 +31,6 @@ Client Consultation Process - https://github.com/steviebyte/Portfolio/blob/maste
 
 BarraOne Asset Management Questionaire
 https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1%20_AM%20Questionnaire-%20Final.doc
+
+Asset Owner Consultation - Goals of Project and Then Interview Questions
+https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/B1_AOC%20Consultation%20-%20Goals%20and%20Questions.doc
