@@ -24,6 +24,9 @@ https://www.dropbox.com/s/8xm6kp3jugq7ibq/strategy.pptx?dl=0
 
 
 
-## MSCI/Barra
+## MSCI/Barra - Customer Research Examples
 Here is a presentation on how customers used our different risk analytics products for the purposes of setting our produt strategy.  I was given this assignment by the CEO and reported this data to the operating committee.  This was important so we knew which products to invest in, which needed to move to the cloud vs. stay as desktop products, which products to target at which segments (pension plans, hedge funds, quant portfolio managers), and which products had overlap that we might discontinue (which we did to save $10M a year).
+
+Client Consultation Process - https://github.com/steviebyte/Portfolio/blob/master/Product%20Management/Client%20Consultation%20Process.doc
+
 
