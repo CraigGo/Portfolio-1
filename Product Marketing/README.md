@@ -20,7 +20,7 @@ Qubole - Here is a Qubole landing page I wrote that we called the brag page for 
 
 https://www.dropbox.com/s/ugmad3iyw0dvxke/Qubole%20Brag%20Page%20Complete.htm?dl=0
 
-Qubole - Here is another landing page we used to captur leads at their workload aware autoscaling launch that I wrote:
+Qubole - Here is another landing page we used to capture leads at their workload aware autoscaling launch that I wrote:
 
 https://www.dropbox.com/s/ulbhtmask137dt1/Qubole%20Autoscaling%20Complete.htm?dl=0  
 
