@@ -29,3 +29,7 @@ Relevant Experience Recap:
 - 2 years consulting and advising Qubole (big data platform similar to Cloudera) and Domino (data science model management platform)
 - 1 year as SVP Products at AdPortal where I ran engineering and product and designed the ad buying GUI myself
 - 2 years as VP of Product Management at Kickfire, a MySQL Data Warehouse appliance sold to Teradata where I owned the roadmap and launch.
+
+
+
+Note: some files in the repository are in github and some are linked to dropbox.  Github has size recstrictions and also you can view word and PPT doc examples easier in dropbox if you are wondering.  
