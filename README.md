@@ -17,7 +17,7 @@ Data Science Coursework Completed by 2019:
 
 Goal:  
 
-I am seeking a product/business position in data science/machine learning that combines by technical skills in big data, analytics, data science with my business, strategy and communications skills.  In short, I'm a B2B software marketer who can code :)  I very much enjoy enjoy customer facing roles in solving problems, gathering market feedback, building products and explaining the value of complex technology.  
+I am seeking a product/business position in data science/machine learning that combines by technical skills in big data, analytics, data science with my business, strategy and communications skills.  In short, I'm a B2B software marketer who can code :)  I very much enjoy customer facing roles in solving problems, gathering market feedback, building products and explaining the value of complex technology.  
 
 Relevant Experience Recap:  
 - 5 years as a developer and project manager in retail at NCR
