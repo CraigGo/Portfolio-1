@@ -13,4 +13,10 @@ https://github.com/steviebyte/Portfolio/blob/master/Data%20Engineering/docker-co
 
 The example below will demonstrate the commands needed to build a data pipleine:   
 https://github.com/steviebyte/Portfolio/blob/master/Data%20Engineering/Spark%20Kafka%20HDFS.md
+
+This assignment demonstrates tracking user activity. I build out a Docker cluster for a prototype of the Lambda Architecture. The Lambda Architecture consists of 1) a speed layer, 2) a batch layer, and a 3) a serving layer. This Assignment focuses on the internally facing components of the batch layer and the speed layer, both built using Parquet files to create a scale out SQL columnar data store on top of the Hadoop Distributed File System (HDFS).
+
+I also created a pyspark shell in the spark container and used the spark kafka API to read the messages from the kafka topic into a spark dataframe and explored the resulting schema and binary data. I also created a new spark dataframe with the key and value slots converted to string and explored the resulting schema and json data as strings.
+
+Last, I wrote the spark dataframes out in parquet format to hadoop hdfs and used spark SQL to impose schema on the dataframes and perform examples of simple queries againt the dataframes using spark SQL.
       
