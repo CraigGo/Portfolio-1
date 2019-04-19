@@ -3,6 +3,11 @@
 Summary
 This project simulates event tracking at a game development company. The latest mobile game has two events we are interested in tracking:  buy a sword & join guild... This assignment constructs the API server to catch these events using flask, kafka, python, spark and Apache zookeeper to maintain configuration information and provide distributed synchronization.
 
+In this project, we build out a Docker cluster for an end to end system. A web API server receives API calls from a phone application, logs the API calls, generates events in json format, and publishes them to a kafka topic. A big data analytics framework using the lambda architecture is built out. For the speed layer, spark will be used to subscribe to the kafka topic and prepare the data for analytics. For the batch layer, hadoop hdfs files in parquet format will be used. For the serving layer, external tools will be used to query the data in the hadoop hdfs parquet files. 
+
+We use a web browser (instead of apache bench) to generate web API calls. The spark is enhanced to write the data frame into hadoop hdfs in parquet format, a user defined function is introduced to munge the data frame, and a filter is used to separate events later in the project.
+
+
 
 ### Setting up to run Spark jobs
 
