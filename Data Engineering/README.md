@@ -24,3 +24,6 @@ Last, I wrote the spark dataframes out in parquet format to hadoop hdfs and used
 
 This project simulates event tracking at a game development company. The latest mobile game has two events we are interested in tracking:  buy a sword & join guild... This assignment constructs the API server to catch two different events using flask, kafka, python, spark and Apache zookeeper to maintain configuration information and provide distributed synchronization.
 
+https://github.com/steviebyte/Portfolio/blob/master/Data%20Engineering/Understanding%20User%20Behavior.md
+
+
