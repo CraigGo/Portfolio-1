@@ -20,7 +20,7 @@ I also created a pyspark shell in the spark container and used the spark kafka A
 
 Last, I wrote the spark dataframes out in parquet format to hadoop hdfs and used spark SQL to impose schema on the dataframes and perform examples of simple queries againt the dataframes using spark SQL.
       
-# Understanding User Behavior - A Second Project
+# Understanding User Behavior - by Steve Dille
 
 This project simulates event tracking at a game development company. The latest mobile game has two events we are interested in tracking:  buy a sword & join guild... This assignment constructs the API server to catch two different events using flask, kafka, python, spark and Apache zookeeper to maintain configuration information and provide distributed synchronization.
 
