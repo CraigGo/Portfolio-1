@@ -1,4 +1,8 @@
 
+I just published the product review of Microsoft Azure Machine Learning Studio in Towards Data Science May, 2019
+https://towardsdatascience.com/how-microsoft-azure-machine-learning-studio-clarifies-data-science-8e8d3e6ed64e
+
+
 I wrote a regular column on data-driven email for MarketingLand while I was CMO of SparkPost.  My column was selected as the second most popular column of the year:
 
 Email Marketing In 2015: The Most Popular Columns Of The Year  
