@@ -1,6 +1,9 @@
 
-I just published the product review of Microsoft Azure Machine Learning Studio in Towards Data Science May, 2019
+I just published the product review of Microsoft Azure Machine Learning Studio in Towards Data Science May, 2019.
 https://towardsdatascience.com/how-microsoft-azure-machine-learning-studio-clarifies-data-science-8e8d3e6ed64e
+
+I followed up the Azure Studio review with a comparison to Amazon SageMaker also in May 2019.
+https://towardsdatascience.com/how-to-decide-between-amazon-sagemaker-and-microsoft-azure-machine-learning-studio-157a08af839a
 
 
 I wrote a regular column on data-driven email for MarketingLand while I was CMO of SparkPost.  My column was selected as the second most popular column of the year:
